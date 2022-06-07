@@ -1,5 +1,3 @@
-![foto](d/foto.jpg)
-
 Roman Lavlinskii
 
 email: romanlavl@gmail.com 
